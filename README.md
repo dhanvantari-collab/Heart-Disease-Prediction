@@ -90,8 +90,7 @@ The trained model receives a set of medical feature values and predicts the corr
 
 Step 1: Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Heart-Disease-Prediction
+git clone https://github.com/dhanvantari-collab/Heart-Disease-Prediction
 
 Step 2: Install Dependencies
 
